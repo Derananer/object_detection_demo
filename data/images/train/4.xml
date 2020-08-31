@@ -1,7 +1,7 @@
 <annotation>
 	<folder>train</folder>
-	<filename>43.jpg</filename>
-	<path>C:\Users\илья\data\images\train\43.jpg</path>
+	<filename>4.jpg</filename>
+	<path>C:\Users\илья\object_detection_demo\data\images\train\4.jpg</path>
 	<source>
 		<database>Unknown</database>
 	</source>
@@ -17,10 +17,10 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>281</xmin>
-			<ymin>98</ymin>
-			<xmax>605</xmax>
-			<ymax>305</ymax>
+			<xmin>25</xmin>
+			<ymin>38</ymin>
+			<xmax>611</xmax>
+			<ymax>345</ymax>
 		</bndbox>
 	</object>
 	<object>
@@ -29,10 +29,10 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>171</xmin>
-			<ymin>295</ymin>
-			<xmax>355</xmax>
-			<ymax>421</ymax>
+			<xmin>105</xmin>
+			<ymin>345</ymin>
+			<xmax>415</xmax>
+			<ymax>478</ymax>
 		</bndbox>
 	</object>
 	<object>
@@ -41,10 +41,10 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>491</xmin>
-			<ymin>351</ymin>
-			<xmax>625</xmax>
-			<ymax>508</ymax>
+			<xmin>535</xmin>
+			<ymin>325</ymin>
+			<xmax>798</xmax>
+			<ymax>478</ymax>
 		</bndbox>
 	</object>
 </annotation>

@@ -1,7 +1,7 @@
 <annotation>
-	<folder>train</folder>
-	<filename>25.jpg</filename>
-	<path>C:\Users\илья\data\images\train\25.jpg</path>
+	<folder>test</folder>
+	<filename>3.jpg</filename>
+	<path>C:\Users\илья\object_detection_demo\data\images\test\3.jpg</path>
 	<source>
 		<database>Unknown</database>
 	</source>
@@ -12,15 +12,15 @@
 	</size>
 	<segmented>0</segmented>
 	<object>
-		<name>ifrin</name>
+		<name>wallet</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>355</xmin>
-			<ymin>415</ymin>
-			<xmax>435</xmax>
-			<ymax>561</ymax>
+			<xmin>371</xmin>
+			<ymin>261</ymin>
+			<xmax>791</xmax>
+			<ymax>578</ymax>
 		</bndbox>
 	</object>
 	<object>
@@ -29,22 +29,22 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>495</xmin>
-			<ymin>318</ymin>
-			<xmax>598</xmax>
-			<ymax>465</ymax>
+			<xmin>8</xmin>
+			<ymin>215</ymin>
+			<xmax>228</xmax>
+			<ymax>438</ymax>
 		</bndbox>
 	</object>
 	<object>
-		<name>wallet</name>
+		<name>ifrin</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>321</xmin>
-			<ymin>15</ymin>
-			<xmax>551</xmax>
-			<ymax>245</ymax>
+			<xmin>225</xmin>
+			<ymin>75</ymin>
+			<xmax>538</xmax>
+			<ymax>221</ymax>
 		</bndbox>
 	</object>
 </annotation>

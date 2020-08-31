@@ -1,7 +1,7 @@
 <annotation>
 	<folder>train</folder>
 	<filename>6.jpg</filename>
-	<path>C:\Users\илья\data\images\train\6.jpg</path>
+	<path>C:\Users\илья\object_detection_demo\data\images\train\6.jpg</path>
 	<source>
 		<database>Unknown</database>
 	</source>
@@ -17,10 +17,10 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>395</xmin>
-			<ymin>185</ymin>
-			<xmax>731</xmax>
-			<ymax>341</ymax>
+			<xmin>111</xmin>
+			<ymin>308</ymin>
+			<xmax>495</xmax>
+			<ymax>578</ymax>
 		</bndbox>
 	</object>
 	<object>
@@ -29,10 +29,22 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>81</xmin>
-			<ymin>321</ymin>
-			<xmax>265</xmax>
-			<ymax>465</ymax>
+			<xmin>308</xmin>
+			<ymin>181</ymin>
+			<xmax>565</xmax>
+			<ymax>295</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>knife</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>605</xmin>
+			<ymin>291</ymin>
+			<xmax>718</xmax>
+			<ymax>511</ymax>
 		</bndbox>
 	</object>
 </annotation>
